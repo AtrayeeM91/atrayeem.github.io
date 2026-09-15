@@ -131,7 +131,7 @@ h1 {
 
 h1 em {
   color: var(--blue);
-  font-style: normal;
+  font-style: italic;
 }
 
 .bio {
@@ -343,7 +343,7 @@ h1 {
 }
 
 h1 em { color: #2f6b45; }
-.bio { margin-top: 14px; color: var(--muted); font-size: 1rem; font-style: italic;}
+.bio { margin-top: 14px; color: var(--muted); font-size: 1rem; }
 
 .opportunity-highlight {
   display: inline-block;
