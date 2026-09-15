@@ -502,3 +502,25 @@ footer { padding-top: 18px; padding-bottom: 30px; }
     overflow-wrap: anywhere;
   }
 }
+.research-item .research-keywords {
+  margin-top: 18px;
+  padding: 16px 18px;
+  background: #eef5ef;
+  border: 1px solid #cdd8cf;
+  border-radius: 6px;
+  color: #444;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.research-keywords strong {
+  display: block;
+  margin-bottom: 6px;
+  color: #2f6b45;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
